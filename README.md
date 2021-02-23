@@ -100,13 +100,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Kardusinfo - [@kardusinfo_](https://instagram.com/kardusinfo_) - kardusinfo.com@gmail.com
-   ```sh
-   Flutter Developer
-   Candra Prasetya - [@candraramesthy](https://instagram.com/candraramesthy)
 
-   UI Design
-   Galih Rizal - [@galihrizal06](https://instagram.com/candraramesthy) 
-   ```
+Flutter Developer
+Candra Prasetya - [@candraramesthy](https://instagram.com/candraramesthy)
+
+UI Design
+Galih Rizal - [@galihrizal06](https://instagram.com/candraramesthy) 
 
 DSC MaChung University - [@dsc_machung](https://instagram.com/dsc_machung)
 
