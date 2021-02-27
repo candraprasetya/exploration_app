@@ -8,7 +8,7 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   int selectedIndex = 0;
   List<Widget> bottomNavItem = <Widget>[
-    'Home'.text.xl2.textStyle(tStyle.bottomNavText).makeCentered(),
+    HomeView(),
     'Feed'.text.xl2.textStyle(tStyle.bottomNavText).makeCentered(),
     'Add'.text.xl2.textStyle(tStyle.bottomNavText).makeCentered(),
     'Course'.text.xl2.textStyle(tStyle.bottomNavText).makeCentered(),

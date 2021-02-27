@@ -48,4 +48,8 @@ mixin tStyle {
     fontWeight: FontWeight.w500,
     color: colors.semanticWhite,
   );
+  static final TextStyle general = GoogleFonts.quicksand(
+    fontSize: 10,
+    color: colors.semanticWhite,
+  );
 }
